@@ -1,0 +1,21 @@
+C:\Users\Karin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Karin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Karin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Karin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\Karin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Karin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Karin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\Karin\source\repos\1\1\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\Karin\source\repos\1\1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Karin\source\repos\1\1\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Karin\source\repos\1\1\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\Karin\source\repos\1\1\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Karin\source\repos\1\1\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Karin\source\repos\1\1\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Karin\source\repos\2 (1)\2\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Karin\source\repos\2 (1)\2\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Karin\source\repos\2 (1)\2\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Karin\source\repos\2 (1)\2\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Karin\source\repos\2 (1)\2\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Karin\source\repos\2 (1)\2\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\Karin\source\repos\2 (1)\2\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
